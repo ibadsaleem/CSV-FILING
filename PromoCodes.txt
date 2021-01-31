@@ -1,0 +1,5 @@
+GariKroAbhi	30	3	NAC
+Bike30	30	7	Bike
+GariSharing	30	4	Sharing
+GariWasool	30	3	NAC
+RikshawKro	30	3	Rickshaw
